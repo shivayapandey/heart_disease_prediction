@@ -23,7 +23,7 @@ This project is a comprehensive heart disease prediction system that incorporate
 1. Clone the repository:
 
 
-git clone https://github.com/your-username/heart-disease-prediction-system.git
+git clone https://github.com/shivayapandey/heart-disease-prediction-system.git
 
 2. Navigate to the project directory:
 
